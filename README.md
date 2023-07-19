@@ -9,3 +9,5 @@ a Higgs boson. Since the Higgs boson decays rapidly into other particles, scient
 but rather measure its“decay signature”, or the products that result from its decay process. Since many decay
 signatures look similar, it is our job to estimate the likelihood that a given event’s signature was the result of a
 Higgs boson (signal) or some other process/particle (background).
+
+The dataset can be found here: https://www.kaggle.com/competitions/higgs-boson/data
